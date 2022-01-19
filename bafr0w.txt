@@ -8,23 +8,21 @@ Software engineer and Cloud Solutions Architect with 7+ years of experience and 
 </p>
 
 <p>
-<strong>Domain Knowledge</strong>: FinTech, Open banking, EMV, Mobile Payments, & E-commerce.
-<strong>Tech Stack</strong>: [Java|Python|JavaScript](Java EE|Spring Boot|React), [Databases](PostgreSQL|MySQL|MongoDB)
-<strong>Version Control</strong>: Git, GitLab, GitHub
-<strong>Containers</strong>: Docker, Kubernetes
-<strong>Continuous Integration</strong>: Jenkins, GitLab CI
+<strong>Domain Knowledge</strong>: FinTech, Open banking, EMV, Mobile Payments, & E-commerce. <br>
+<strong>Tech Stack</strong>: [Java|Python|JavaScript](Java EE|Spring Boot|React), [Databases](PostgreSQL|MySQL|MongoDB) <br>
+<strong>Version Control</strong>: Git, GitLab, GitHub <br>
+<strong>Containers</strong>: Docker, Kubernetes <br>
+<strong>Continuous Integration</strong>: Jenkins, GitLab CI <br>
 <strong>Collaboration, Support & PM</strong>: Jira, Confluence
 <br>
 <strong>Language</strong>: English
 </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
-
 <p>
 <h3>Learn More</h3>
 <a href="https://www.linkedin.com/in/frimpong-baah/" target="_blank">LinkedIn</a> <br> 
 <a href="https://github.com/bafr0w" target="_blank">Github</a> <br> 
-<a href="https://twitter.com/bafr0w" target="_blank">Twitter</a>  <br> 
-
+<a href="https://twitter.com/bafr0w" target="_blank">Twitter</a>  <br>
 </p>
 
 Feel free to reach out: &nbsp;<!-- longlonglongcomment --><a href="mailTo:bafr0wsec@gmail.com">bafr0wsec@gmail.com</a>.
