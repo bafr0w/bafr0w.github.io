@@ -1,0 +1,44 @@
+body {
+	background-color: #000
+}
+
+#console {
+	font-family: courier, monospace;
+	color: rgb(250, 246, 246);
+	width:750px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:50px;
+	font-size:14px;
+}
+
+a {
+	color: #0bc;
+	text-decoration: none;
+}
+
+#a {
+	color: rgb(255, 0, 0);
+}
+
+#c {
+	color: #0bc;
+}
+
+#b {
+	color: #ff0000;
+}
+
+#k {
+    	animation: change 1s;
+}
+
+#op{
+    	color: #888888
+}
+
+@keyframes change {
+    	0%  { color:  rgb(255, 0, 0); }
+    	50% { color:  rgb(255, 0, 0); }
+    	99% { color: black; }
+}
