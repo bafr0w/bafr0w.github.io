@@ -1,5 +1,5 @@
-<span id="a">root@bafr0w.com</span>:<span id="b">~</span><span id="c">#</span> cd bafr0w/<!-- kjsdfhkjdhsfkjdshfkj -->AboutMe
-<span id="a">root@bafr0w.com</span>:<span id="b">~</span><span id="c">#</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->bafr0w.md<br/><br/>
+<span id="a">root@bafr0w.com</span>:<span id="b">~</span><span id="b">#</span> cd bafr0w/<!-- kjsdfhkjdhsfkjdshfkj -->AboutMe
+<span id="a">root@bafr0w.com</span>:<span id="b">~</span><span id="b">#</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->bafr0w.md<br/><br/>
 <strong>My Daily Mantra, "<span id="k">There is always a way to solve that problem. Do not stop till you find it</span>". <!-- sjkfhskjf --></strong>
 
 <h3>Frimpong O. Baah - Software Engineer | Cloud Solutions Architect</h3>
