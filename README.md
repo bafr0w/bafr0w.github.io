@@ -1,2 +1,2 @@
-# bafr0w.github.io
-My portfolio website.
+# bafr0w.com
+"About Me" summarized.
