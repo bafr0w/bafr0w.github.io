@@ -1,29 +1,28 @@
-<span id="a">root@bafr0w.com</span>:<span id="a">~</span><span id="a">#</span> cd bafr0w/<!-- kjsdfhkjdhsfkjdshfkj -->AboutMe
-<span id="a">root@bafr0w.com</span>:<span id="a">~</span><span id="a">#</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->bafr0w.md<br/><br/>
+<span id="a">root@bafr0w.com</span>:<span id="a">~</span><span id="a">#</span> cd bafr0w/<!-- kjsdfhkjdhsfkjdshfkj -->AboutMe/
+<span id="a">root@bafr0w.com</span>:<span id="a">~/bafr0w/AboutMe</span><span id="a">#</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->bafr0w.md<br/><br/>
 <strong>My Daily Mantra, "<span id="k">There is always a way to solve that problem. Do not stop till you find it</span>". <!-- sjkfhskjf --></strong>
 
-<h3>Frimpong O. Baah - Software Engineer | Cloud Solutions Architect</h3>
-<p>
-Software engineer and Cloud Solutions Architect with 7+ years of experience and proven track record in Card and Mobile payment solution development, integration and service delivery. Experience in Cloud infrastructure orchestration and automation. Experience in ISO 27001 and PCI implementation, Application Security Testing, certification and support.
-</p>
+<strong>Frimpong O. Baah - Software Engineer | Cloud Solutions Architect | Technical Lead</strong><br>
 
-<p>
-<strong>Domain Knowledge</strong>: FinTech, Open banking, EMV, Mobile Payments, & E-commerce. <br>
-<strong>Tech Stack</strong>: [Java|Python|JavaScript](Java EE|Spring Boot|React), [Databases](PostgreSQL|MySQL|MongoDB) <br>
-<strong>Version Control</strong>: Git, GitLab, GitHub <br>
-<strong>Containers</strong>: Docker, Kubernetes <br>
-<strong>Continuous Integration</strong>: Jenkins, GitLab CI <br>
-<strong>Collaboration, Support & PM</strong>: Jira, Confluence
+Software engineer and Cloud Solutions Architect with 7+ years of experience and proven track record in Card and Mobile payment solution development, integration and service delivery. Experience in Cloud infrastructure orchestration and automation. Experience in ISO 27001 and PCI implementation, Application Security Testing, certification and support.<br>
+
+<a><strong>Domain Knowledge</strong>:</a> FinTech, EMV, Mobile Payments, E-commerce. ISO 27001. PCI-DSS <br>
+<a><strong>Tech Stack</strong>:</a> 
+<span id="f">[Java|Python|JavaScript]</span> (Java EE|Spring Boot|React), 
+<span id="f">[Databases]</span> (PostgreSQL|MySQL|MongoDB) <br>
+<a><strong>IaC</strong>:</a> CloudFormation, Terraform <br>
+<a><strong>Version Control</strong>:</a> Git, GitLab, GitHub <br>
+<a><strong>Containerization</strong>:</a> Docker, Kubernetes <br>
+<a><strong>Continuous Integration / Continuous Delivery</strong>:</a> Jenkins, GitLab CI <br>
+<a><strong>Collaboration, Support & PM</strong>:</a> Jira, Confluence
 <br>
-<strong>Language</strong>: English
-</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<a><strong>Language</strong>:</a> English (Advanced proficiency in reading, writing, & speaking)
+<!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
-<p>
-<h3>Learn More</h3>
-<a href="https://www.linkedin.com/in/frimpong-baah/" target="_blank">LinkedIn</a> <br> 
-<a href="https://github.com/bafr0w" target="_blank">Github</a> <br> 
-<a href="https://twitter.com/bafr0w" target="_blank">Twitter</a>  <br>
-</p>
+<strong>Learn More</strong>
+<a href="https://www.linkedin.com/in/frimpong-baah/" target="_blank">LinkedIn</a>
+<a href="https://github.com/bafr0w" target="_blank">Github</a>
+<a href="https://twitter.com/bafr0w" target="_blank">Twitter</a>
 
 Feel free to reach out: &nbsp;<!-- longlonglongcomment --><a href="mailTo:bafr0wsec@gmail.com">bafr0wsec@gmail.com</a>.
 
