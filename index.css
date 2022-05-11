@@ -34,11 +34,15 @@ a {
 }
 
 #op {
-    	color: #888888
+    	color: #888888;
 }
 
 #f {
-	color: #ebf57d
+	color: #ebf57d;
+}
+
+#g {
+	color: #85afcc;
 }
 
 @keyframes change {
