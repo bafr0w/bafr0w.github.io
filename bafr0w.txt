@@ -4,25 +4,25 @@
 
 <strong>Frimpong O. Baah - Software Engineer | Cloud Solutions Architect | Technical Lead</strong><br>
 
-Software engineer and Cloud Solutions Architect with 7+ years of experience and proven track record in Card and Mobile payment solution development, integration and service delivery. Experience in Cloud infrastructure orchestration and automation. Experience in ISO 27001 and PCI implementation, Application Security Testing, certification and support.<br>
+Software engineer and Cloud Solutions Architect with 9+ years of experience in software engineering and team leadership. Proven track record in developing scalable cloud infrastructure, ERP systems, and payment solutions across African markets. Adept at fostering inclusive team environments and driving strategic technological advancements in high-growth settings.<br>
 
-<span id="g"><strong>Domain Knowledge</strong>:</span> FinTech, EMV, Mobile Payments, E-commerce, ISO 27001, PCI-DSS <br>
-<span id="g"><strong>Tech Stack</strong>:</span> 
-<span id="f">[Java|Python|JavaScript]</span> (Java EE|Spring Boot|React), 
-<span id="f">[Databases]</span> (PostgreSQL|MySQL|MongoDB) <br>
-<span id="g"><strong>IaC</strong>:</span> CloudFormation, Terraform <br>
+<span id="g"><strong>Domain Knowledge</strong>:</span> FinTech, EMV, SoftPOS, Mobile Payments, E-commerce, ISO 27001, PCI-DSS <br>
+<span id="g"><strong>Tech Stack</strong>:</span> <br>
+<span id="g"><strong>Languages/Frameworks</strong>:</span> Java, Python, JavaScript, Spring Boot, Vue.js <br>
+<span id="g"><strong>Databses</strong>:</span> PostgreSQL, MySQL, Microsoft SQL Server, MongoDB, Elasticsearch, Redis <br>
+<span id="g"><strong>Cloud & IaC</strong>:</span> CloudFormation, Terraform, AWS CDK <br>
 <span id="g"><strong>Version Control</strong>:</span> Git, GitLab, GitHub <br>
-<span id="g"><strong>Containerization</strong>:</span> Docker, Kubernetes <br>
-<span id="g"><strong>Continuous Integration / Continuous Delivery</strong>:</span> Jenkins, GitLab CI <br>
+<span id="g"><strong>Containerization & Orchestration</strong>:</span> Docker, Kubernetes, AWS ECR, AWS EKS/ECS/FARGATE <br>
+<span id="g"><strong>Continuous Integration / Continuous Delivery</strong>:</span> GitLab CI, Jenkins, GitHub Actions, ArgoCD <br>
+<span id="g"><strong>Monitoring & Logging</strong>:</span> ELK Stack, Prometheus, Grafana, DataDog, New Relic <br>
 <span id="g"><strong>Collaboration, Support & PM</strong>:</span> Jira, Confluence
 <br>
-<span id="g"><strong>Language</strong>:</span> English (Advanced proficiency in reading, writing, & speaking)
+<span id="g"><strong>Languages</strong>:</span> English (Advanced proficiency in reading, writing, & speaking), French (Beginner)
 <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
 <strong>Learn More</strong>
 <a href="https://www.linkedin.com/in/bafr0w" target="_blank">LinkedIn</a>
 <a href="https://github.com/bafr0w" target="_blank">Github</a>
-<a href="https://twitter.com/bafr0w" target="_blank">Twitter</a>
 
 Feel free to reach out: &nbsp;<!-- longlonglongcomment --><a href="mailTo:bafr0wsec@gmail.com">bafr0wsec@gmail.com</a>.
 
